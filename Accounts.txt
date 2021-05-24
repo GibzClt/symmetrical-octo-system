@@ -1,0 +1,5 @@
+Account Name		Account Number 			Balance
+gibin			1001				100
+sujith			1002				200
+melbin			2003				300
+
